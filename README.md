@@ -1,2 +1,15 @@
+------
 Vue JS
-Vue js merupakan salah satu framework yang banyak digunakan. Jika anda telah terbiasa dengan menggunakan angular js, maka untuk melakukan migrasi ke vue js tidak lah terlalu susah karena mereka mempunyai kemiripan di bagian sintak, hanya saja angular js memiliki development stack yang lebih rumit dibandingkan dengan vue js :). Bagi anda yang penasaran dengan angular js, silahkan lihat di artikel belajar angular js. Vue js juga menggunakan fitur data binding sama seperti angular js. Jika di angular js kita menggunakan fungsi controller, maka di vue js kita akan menggunakan pendekatan dom yaitu kita akan menggunakan id, name atau class dari suatu component html. 
+------
+
+Vue.js (https://vuejs.org/) seperti di websitenya yang membawa tagline “The Progressive JavaScript Framework” merupakan javascript framework yang membantu kita dalam membuat sebuah website/aplikasi yang membutuhkan banyak interaksi di dalamnya, biasanya berupa Single Page Application. Vue.js belakangan memiliki gaung yang lumayan kencang di kalangan web developer maupun Javascript developer karena kemudahan dalam mempelajari dan mengimplementasikan di dalam website/aplikasi kita.
+
+------------
+ProjectVuejs
+------------
+Project ini adalah project membuat form yang berisi, text yang ditampilkan saat textbox diisi dan 3 soal beserta pilihan jawabannya. Ketika jawaban yang dipilih benar, maka nilai akan bertambah 1 dengan menggunakan fungsi if. nilai akan tampil saat fungsi klik dijalankan.
+
+
+
+*Arvi RAHMANURDIN
+*xii - rpl 3
